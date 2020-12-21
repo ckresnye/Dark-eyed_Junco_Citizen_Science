@@ -15,12 +15,11 @@ The dark-eyed junco is a common sparrow found across north america. This small b
 
 ## Project Parts
 ### Importing verified Data Points
-The first step was to cleanup the data to be analyzed, and format it for further analysis. This involved converting txt files provided by Ebird to CSV, as shown in the file.
+The first step was to cleanup the data to be analyzed, and format it for further analysis. This involved converting txt files provided by Ebird to CSV, as shown in the file dataFormatter.py.
 
-### Webscraping for Junco Posts with Locations
-TODO - write up in progress
-### Verifying Images 
-TODO - write up in progress
+### Webscraping for Junco Posts with Verification
+The second step was to grab new data points from Instagram with a webscrapper (file webscrapper.py). This pulls the posts that are tagged "junco", filters results to those with location data, then verifies the image contains a bird using Google Cloud's Vision API. This program also uses a zipcode lookup for locations. If images are found to contain birds, the image and data are stored in firebase storage.
+
 ### Comparing Results
 TODO - write up in progress
 
