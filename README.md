@@ -10,6 +10,6 @@ This project consists of three components:
 
 ## About the Dark-eyed Junco
 The dark-eyed junco is a common sparrow found across north america.
-![GitHub Logo](/images/dark-eyed-junco-range.png)
+![Junco Range Map](/images/dark-eyed-junco-range.jpg)
 
 ## Project Parts
