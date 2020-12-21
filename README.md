@@ -17,15 +17,15 @@ The dark-eyed junco is a common sparrow found across north america. This small b
 ### Importing verified Data Points
 The first step was to cleanup the data to be analyzed, and format it for further analysis. This involved converting txt files provided by Ebird to CSV, as shown in the file.
 
-###Webscraping for Junco Posts with Locations
-TODO
-###Verifying Images 
-TODO
-###Comparing Results
-TODO
+### Webscraping for Junco Posts with Locations
+TODO - write up in progress
+### Verifying Images 
+TODO - write up in progress
+### Comparing Results
+TODO - write up in progress
 
-##Project Results
-TODO
+## Project Results
+TODO - write up in progress
 
-##Future Work
-TBD
+## Future Work
+TBD - write up in progress
